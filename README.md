@@ -1,4 +1,5 @@
-Table of contents
+Table of contents: - 
+
 Homepage
 Payment Gateway Interface
 Payment Successful
